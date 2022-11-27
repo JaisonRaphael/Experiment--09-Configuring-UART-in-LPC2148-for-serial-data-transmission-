@@ -76,10 +76,9 @@ uart0_putc(a);
 ### Before simulation:
 ![](beforesimulation.PNG)
 ### After simulation:
-![](aftersimulation.PNG)
+![aftersimulation](https://user-images.githubusercontent.com/94165957/204133678-1d13d366-a8c0-4d88-a70a-1a2d7ba3f5ce.PNG)
 ### Circuit layout:
-![](circuit.PNG)
-
+![circuit](https://user-images.githubusercontent.com/94165957/204133649-7c4f788d-864f-4cfb-9420-acb4111a5d41.PNG)
 
 ## Result :
 UART is programmed for transmitting serial data on virtual terminal.
